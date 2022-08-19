@@ -91,7 +91,7 @@ _Example: Teacher Assistant - 4Geeks Academy_
 
 * **Time frame**
 - [ ] Add the start and end date of your degree 
-* *Certifications *
+* **Certifications]]**
 - [ ] Add the certified courses you have done (Ex: Photoshop) 
 (If you have any add it in the same section) 
 * **Advanced courses** 
